@@ -1,0 +1,4 @@
+interface:
+  display_name: "Download a video"
+  short_description: "Get a video, part, MP3 or GIF as a file"
+  default_prompt: "Use $gimmeclip-download to download this video as MP4."

@@ -1,0 +1,26 @@
+{
+  "name": "gimmeclip",
+  "version": "0.1.0",
+  "description": "Download, clip, caption and transcribe public videos from YouTube, TikTok, Instagram, X, Twitch and more; follow YouTube channels and clip their new videos.",
+  "author": { "name": "Lucas Espindola", "url": "https://lucasespindola.com" },
+  "homepage": "https://gimmeclip.com/docs/",
+  "repository": "https://github.com/lukax/gimmeclip-skills",
+  "license": "MIT",
+  "keywords": ["video", "clips", "download", "transcript", "captions", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "gimmeclip",
+    "shortDescription": "Clip, download and transcribe videos",
+    "longDescription": "Turn public video links into files, watch links, captioned vertical clips and timestamped transcripts. Skills find and clip a video's best moment, download a video, part, MP3 or GIF, write notes from a transcript, and follow YouTube channels so new videos land in an inbox with moments to clip. Public videos only; anonymous use has daily limits, and an optional GIMMECLIP_API_KEY gives your account's own.",
+    "developerName": "Lucas Espindola",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://gimmeclip.com/docs/",
+    "defaultPrompt": [
+      "Make a vertical captioned clip of the best moment in this video.",
+      "Transcribe this TikTok and give me the key points with timestamps.",
+      "Check my gimmeclip inbox and suggest clips from new videos."
+    ]
+  }
+}

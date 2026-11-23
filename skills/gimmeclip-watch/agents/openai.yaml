@@ -1,0 +1,4 @@
+interface:
+  display_name: "Follow channels"
+  short_description: "Follow YouTube channels and clip new videos from an inbox"
+  default_prompt: "Use $gimmeclip-watch to check my gimmeclip inbox and suggest clips from new videos."

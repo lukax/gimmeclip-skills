@@ -1,0 +1,14 @@
+{
+  "name": "gimmeclip",
+  "description": "gimmeclip skills and MCP server for downloading, clipping and transcribing public videos.",
+  "owner": { "name": "Lucas Espindola", "url": "https://lucasespindola.com" },
+  "plugins": [
+    {
+      "name": "gimmeclip",
+      "source": "./",
+      "description": "Download, clip, caption and transcribe public videos, and follow YouTube channels, with four skills.",
+      "category": "productivity",
+      "tags": ["video", "clips", "transcript", "mcp"]
+    }
+  ]
+}

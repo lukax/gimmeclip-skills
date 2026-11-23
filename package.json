@@ -1,0 +1,8 @@
+{
+  "name": "gimmeclip-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "gimmeclip skills, plugin manifests and a dependency-free helper for the gimmeclip MCP tools.",
+  "license": "MIT",
+  "type": "module"
+}

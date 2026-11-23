@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "gimmeclip": { "type": "http", "url": "https://gimmeclip.com/mcp" }
+  }
+}

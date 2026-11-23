@@ -1,0 +1,11 @@
+{
+  "name": "gimmeclip",
+  "displayName": "gimmeclip",
+  "version": "0.1.0",
+  "description": "Download, clip, caption and transcribe public videos from YouTube, TikTok, Instagram, X, Twitch and more; follow YouTube channels and clip their new videos.",
+  "author": { "name": "Lucas Espindola", "url": "https://lucasespindola.com" },
+  "homepage": "https://gimmeclip.com/docs/",
+  "repository": "https://github.com/lukax/gimmeclip-skills",
+  "license": "MIT",
+  "keywords": ["video", "clips", "download", "transcript", "captions", "youtube", "mcp"]
+}

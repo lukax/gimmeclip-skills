@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clip a moment"
+  short_description: "Make a short captioned clip of a video's best moment"
+  default_prompt: "Use $gimmeclip-moment to make a vertical captioned clip of the best moment in this video."

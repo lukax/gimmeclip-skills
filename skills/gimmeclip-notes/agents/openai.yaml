@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video transcript notes"
+  short_description: "Transcribe a video and write timestamped notes"
+  default_prompt: "Use $gimmeclip-notes to transcribe this video and write notes with timestamps."
